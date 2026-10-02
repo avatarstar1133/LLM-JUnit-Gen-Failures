@@ -1,9 +1,10 @@
 # LLM JUnit Gen Failures
-**Topic:** RT-SWT302-004
-**Môn:** SWT302 – Research-Based Learning
-**Nhóm:** SHA256 – FA26
-**Thành viên:** Huỳnh Gia Hào (PL), Hồ Lê Thiên AN (DG), Nguyễn Hoàng Khôi (DG), Nguyễn Nam Khoa (DG)
-**Giảng viên hướng dẫn:** L.T.Q.Chi
+
+**Topic:** RT-SWT302-004  
+**Môn:** SWT302 – Research-Based Learning  
+**Nhóm:** SHA256 – FA26  
+**Thành viên:** Huỳnh Gia Hào (PL), Hồ Lê Thiên An (DG), Nguyễn Hoàng Khôi (DG), Nguyễn Nam Khoa (DG)  
+**Giảng viên hướng dẫn:** L.T.Q.Chi  
 
 ## Tiến độ
 - [ ] RBL-1: Tìm paper (Tuần 6)
