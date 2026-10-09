@@ -1,1 +1,2 @@
 database,query,date,raw_hits,screened,candidate,included,notes
+Web search (ACM-indexed paper discovery),ACM LLM unit test generation empirical study DOI,2026-10-09,,1,1,,Exploratory discovery of DOI 10.1145/3661167.3661216; not the shared systematic ACM Digital Library search; raw hit count unavailable
