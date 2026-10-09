@@ -1,0 +1,290 @@
+{
+  "schema_version": 1,
+  "database": "ACM Digital Library",
+  "capture_method": "browser_rendered_dom",
+  "search_url": "https://dl.acm.org/action/doSearch?AllField=%28%22unit+test+generation%22+OR+%22JUnit+test+suite%22+OR+HumanEval%29+AND+%28ChatGPT+OR+Gemini+OR+%22compiler-feedback+repair%22+OR+%22structured+prompting%22%29+AND+%28compilability+OR+executability+OR+%22build+success+rate%22+OR+%22test+execution+rate%22%29",
+  "query": "(\"unit test generation\" OR \"JUnit test suite\" OR HumanEval) AND (ChatGPT OR Gemini OR \"compiler-feedback repair\" OR \"structured prompting\") AND (compilability OR executability OR \"build success rate\" OR \"test execution rate\")",
+  "raw_hits": 611,
+  "collection": "ACM Full-Text Collection",
+  "page": 1,
+  "retrieved_date": "2026-10-09",
+  "records": [
+    {
+      "rank": 1,
+      "title": "From Scenario to Code: Structured Prompting for LLM-Based Unit Test Generation",
+      "authors": [
+        "Aminata Diop",
+        "Fadel Toure",
+        "Mourad Badri"
+      ],
+      "display_date": "April 2026",
+      "doi": "10.1145/3779657.3779658",
+      "url": "https://dl.acm.org/doi/10.1145/3779657.3779658"
+    },
+    {
+      "rank": 2,
+      "title": "Reference-Based Retrieval-Augmented Unit Test Generation",
+      "authors": [
+        "Zhe Zhang",
+        "Xingyu Liu",
+        "Yuanzhang Lin",
+        "Xiang Gao",
+        "Hailong Sun",
+        "Yuan Yuan"
+      ],
+      "display_date": "May 2026",
+      "doi": "10.1145/3765758",
+      "url": "https://dl.acm.org/doi/10.1145/3765758"
+    },
+    {
+      "rank": 3,
+      "title": "Enhancing Automated Unit Test Generation with Large Language Models: A Systematic Literature Review",
+      "authors": [
+        "Junwei Zhang",
+        "Xing Hu",
+        "Cuiyun Gao",
+        "Xin Xia",
+        "Shanping Li"
+      ],
+      "display_date": "August 2026",
+      "doi": "10.1145/3802827",
+      "url": "https://dl.acm.org/doi/10.1145/3802827"
+    },
+    {
+      "rank": 4,
+      "title": "Context Matters: Improving the Practical Reliability of LLM-Based Unit Test Generation (Experience Paper)",
+      "authors": [
+        "Junjie Chen",
+        "Ziqi Wang",
+        "Lin Yang",
+        "Chen Yang",
+        "Xiao Chu",
+        "Jianyi Zhou",
+        "Guangtai Liang"
+      ],
+      "display_date": "October 2026",
+      "doi": "10.1145/3832242",
+      "url": "https://dl.acm.org/doi/10.1145/3832242"
+    },
+    {
+      "rank": 5,
+      "title": "Test Intention Guided LLM-Based Unit Test Generation",
+      "authors": [
+        "Zifan Nan",
+        "Zhaoqiang Guo",
+        "Kui Liu",
+        "Xin Xia"
+      ],
+      "display_date": "September 2025",
+      "doi": "10.1109/ICSE55347.2025.00243",
+      "url": "https://dl.acm.org/doi/10.1109/ICSE55347.2025.00243"
+    },
+    {
+      "rank": 6,
+      "title": "Leveraging GPT-4 for Vulnerability-Witnessing Unit Test Generation",
+      "authors": [
+        "Gábor Antal",
+        "Dénes Bán",
+        "Martin Isztin",
+        "Rudolf Ferenc",
+        "Péter Hegedus"
+      ],
+      "display_date": "December 2025",
+      "doi": "10.1145/3756681.3757075",
+      "url": "https://dl.acm.org/doi/10.1145/3756681.3757075"
+    },
+    {
+      "rank": 7,
+      "title": "CITYWALK: Enhancing LLM-Based C++ Unit Test Generation via Project-Dependency Awareness and Language-Specific Knowledge",
+      "authors": [
+        "Yuwei Zhang",
+        "Qingyuan Lu",
+        "Kai Liu",
+        "Wensheng Dou",
+        "Jiaxin Zhu"
+      ],
+      "display_date": "April 2026",
+      "doi": "10.1145/3763791",
+      "url": "https://dl.acm.org/doi/10.1145/3763791"
+    },
+    {
+      "rank": 8,
+      "title": "Understanding and Mitigating Hallucinations in Industrial LLM-based Unit Test Generation",
+      "authors": [
+        "Yanlun Tu",
+        "Ziyue Zhou",
+        "Cheng Xu",
+        "Jingling Sun",
+        "Shuai Feng",
+        "Chengyu Zhang"
+      ],
+      "display_date": "July 2026",
+      "doi": "10.1145/3803437.3805260",
+      "url": "https://dl.acm.org/doi/10.1145/3803437.3805260"
+    },
+    {
+      "rank": 9,
+      "title": "Evaluating and Improving ChatGPT for Unit Test Generation",
+      "authors": [
+        "Zhiqiang Yuan",
+        "Mingwei Liu",
+        "Shiji Ding",
+        "Kaixin Wang",
+        "Yixuan Chen"
+      ],
+      "display_date": "July 2024",
+      "doi": "10.1145/3660783",
+      "url": "https://dl.acm.org/doi/10.1145/3660783"
+    },
+    {
+      "rank": 10,
+      "title": "Automated Unit Test Generation via Chain-of-Thought Prompt and Reinforcement Learning from Coverage Feedback",
+      "authors": [
+        "Junwei Zhang",
+        "Xing Hu",
+        "Xin Xia",
+        "Shing-Chi Cheung",
+        "Shanping Li"
+      ],
+      "display_date": "March 2026",
+      "doi": "10.1145/3745765",
+      "url": "https://dl.acm.org/doi/10.1145/3745765"
+    },
+    {
+      "rank": 11,
+      "title": "On the Evaluation of Large Language Models in Unit Test Generation",
+      "authors": [
+        "Lin Yang",
+        "Chen Yang",
+        "Shutao Gao",
+        "Weijing Wang",
+        "Bo Wang"
+      ],
+      "display_date": "October 2024",
+      "doi": "10.1145/3691620.3695529",
+      "url": "https://dl.acm.org/doi/10.1145/3691620.3695529"
+    },
+    {
+      "rank": 12,
+      "title": "Rug: Turbo LLM for Rust Unit Test Generation",
+      "authors": [
+        "Xiang Cheng",
+        "Fan Sang",
+        "Yizhuo Zhai",
+        "Xiaokuan Zhang",
+        "Taesoo Kim"
+      ],
+      "display_date": "September 2025",
+      "doi": "10.1109/ICSE55347.2025.00097",
+      "url": "https://dl.acm.org/doi/10.1109/ICSE55347.2025.00097"
+    },
+    {
+      "rank": 13,
+      "title": "Less Is More: On the Importance of Data Quality for Unit Test Generation",
+      "authors": [
+        "Junwei Zhang",
+        "Xing Hu",
+        "Shan Gao",
+        "Xin Xia",
+        "David Lo",
+        "Shanping Li"
+      ],
+      "display_date": "June 2025",
+      "doi": "10.1145/3715778",
+      "url": "https://dl.acm.org/doi/10.1145/3715778"
+    },
+    {
+      "rank": 14,
+      "title": "STRUT: Structured Seed Case Guided Unit Test Generation for C Programs using LLMs",
+      "authors": [
+        "Jinwei Liu",
+        "Chao Li",
+        "Rui Chen",
+        "Shaofeng Li",
+        "Bin Gu",
+        "Mengfei Yang"
+      ],
+      "display_date": "June 2025",
+      "doi": "10.1145/3728970",
+      "url": "https://dl.acm.org/doi/10.1145/3728970"
+    },
+    {
+      "rank": 15,
+      "title": "JUnitGenie: A Framework for Path-Sensitive Unit Test Generation with Large Language Models",
+      "authors": [
+        "Dianshu Liao",
+        "Xin Yin",
+        "Shidong Pan",
+        "Chao Ni",
+        "Zhenchang Xing",
+        "xiaoyu sun"
+      ],
+      "display_date": "September 2026",
+      "doi": "10.1145/3774748.3787600",
+      "url": "https://dl.acm.org/doi/10.1145/3774748.3787600"
+    },
+    {
+      "rank": 16,
+      "title": "Unit Test Generation using Generative AI : A Comparative Performance Analysis of Autogeneration Tools",
+      "authors": [
+        "Shreya Bhatia",
+        "Tarushi Gandhi",
+        "Dhruv Kumar",
+        "Pankaj Jalote"
+      ],
+      "display_date": "September 2024",
+      "doi": "10.1145/3643795.3648396",
+      "url": "https://dl.acm.org/doi/10.1145/3643795.3648396"
+    },
+    {
+      "rank": 17,
+      "title": "HITS: High-coverage LLM-based Unit Test Generation via Method Slicing",
+      "authors": [
+        "Zejun Wang",
+        "Kaibo Liu",
+        "Ge Li",
+        "Zhi Jin"
+      ],
+      "display_date": "October 2024",
+      "doi": "10.1145/3691620.3695501",
+      "url": "https://dl.acm.org/doi/10.1145/3691620.3695501"
+    },
+    {
+      "rank": 18,
+      "title": "Observation-Based Unit Test Generation at Meta",
+      "authors": [
+        "Nadia Alshahwan",
+        "Mark Harman",
+        "Alexandru Marginean",
+        "Rotem Tal",
+        "Eddy Wang"
+      ],
+      "display_date": "July 2024",
+      "doi": "10.1145/3663529.3663838",
+      "url": "https://dl.acm.org/doi/10.1145/3663529.3663838"
+    },
+    {
+      "rank": 19,
+      "title": "An initial investigation of ChatGPT unit test generation capability",
+      "authors": [
+        "Vitor Guilherme",
+        "Auri Vincenzi"
+      ],
+      "display_date": "October 2023",
+      "doi": "10.1145/3624032.3624035",
+      "url": "https://dl.acm.org/doi/10.1145/3624032.3624035"
+    },
+    {
+      "rank": 20,
+      "title": "Unit Test Generation using Large Language Models for Unity Game Development",
+      "authors": [
+        "Ciprian Paduraru",
+        "Alin Stefanescu",
+        "Augustin Jianu"
+      ],
+      "display_date": "July 2024",
+      "doi": "10.1145/3663532.3664466",
+      "url": "https://dl.acm.org/doi/10.1145/3663532.3664466"
+    }
+  ]
+}

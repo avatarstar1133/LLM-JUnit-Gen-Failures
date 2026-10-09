@@ -1,0 +1,24 @@
+{
+  "run_id": "2ba4817c7f71",
+  "cross_member_overlaps": [
+    {
+      "doi": "10.1145/3660783",
+      "matches": [
+        {
+          "file": "nguyen-hoang-khoi\\SLR\\candidate_papers.csv",
+          "paper_id": "P01"
+        }
+      ]
+    },
+    {
+      "doi": "10.1145/3624032.3624035",
+      "matches": [
+        {
+          "file": "nguyen-hoang-khoi\\SLR\\candidate_papers.csv",
+          "paper_id": "P11"
+        }
+      ]
+    }
+  ],
+  "note": "An keeps source-specific records; the shared CSV keeps one row per DOI/title-year."
+}
