@@ -4,6 +4,7 @@
 secrets.json
 api_key.txt
 config.py
+config/experiment.local.json
 
 # Python cache
 __pycache__/
@@ -12,10 +13,26 @@ __pycache__/
 venv/
 .ipynb_checkpoints/
 
+# IDE
+.vscode/
+.idea/
+
 # OS files
 .DS_Store
 desktop.ini
 Thumbs.db
 
-# File lớn (thêm nếu data > 100MB)
-# data/raw/
+# Build outputs
+target/
+build/
+dist/
+
+# Large/raw/generated experiment artifacts
+# Keep metadata/manifests in Git, but not large raw outputs.
+data/raw/*
+!data/raw/.gitkeep
+results/raw/
+logs/
+
+# Local generated JUnit workspaces
+workspaces/
