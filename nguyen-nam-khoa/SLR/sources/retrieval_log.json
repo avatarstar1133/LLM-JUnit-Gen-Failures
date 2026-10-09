@@ -1,0 +1,184 @@
+[
+  {
+    "key": "semantic_scholar_shared_query",
+    "url": "https://api.semanticscholar.org/graph/v1/paper/search?query=%28%22unit+test+generation%22+OR+%22JUnit+test+suite%22+OR+HumanEval%29+AND+%28ChatGPT+OR+Gemini+OR+%22compiler-feedback+repair%22+OR+%22structured+prompting%22%29+AND+%28compilability+OR+executability+OR+%22build+success+rate%22+OR+%22test+execution+rate%22%29&limit=100&fields=title%2Cauthors%2Cyear%2Curl%2CexternalIds%2CopenAccessPdf%2Cabstract",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": "ERROR",
+    "error": "HTTP Error 429: "
+  },
+  {
+    "key": "google_scholar_shared_query",
+    "url": "https://scholar.google.com/scholar?q=%28%22unit+test+generation%22+OR+%22JUnit+test+suite%22+OR+HumanEval%29+AND+%28ChatGPT+OR+Gemini+OR+%22compiler-feedback+repair%22+OR+%22structured+prompting%22%29+AND+%28compilability+OR+executability+OR+%22build+success+rate%22+OR+%22test+execution+rate%22%29&num=20",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": "ERROR",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "key": "testart_v6",
+    "url": "https://arxiv.org/html/2408.03095v6",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2408.03095v6",
+    "bytes": 338047,
+    "file": "testart_v6.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "meta_v1",
+    "url": "https://arxiv.org/html/2402.09171v1",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2402.09171v1",
+    "bytes": 194473,
+    "file": "meta_v1.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "yate_v1",
+    "url": "https://arxiv.org/html/2507.18316v1",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2507.18316v1",
+    "bytes": 282440,
+    "file": "yate_v1.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "tcs_v1",
+    "url": "https://arxiv.org/html/2609.03955v1",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2609.03955v1",
+    "bytes": 640718,
+    "file": "tcs_v1.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "oracle_audit_v1",
+    "url": "https://arxiv.org/html/2608.19626v1",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2608.19626v1",
+    "bytes": 322935,
+    "file": "oracle_audit_v1.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "llm2alloy_v1",
+    "url": "https://arxiv.org/html/2607.18555v1",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2607.18555v1",
+    "bytes": 163441,
+    "file": "llm2alloy_v1.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "business_oracles_v1",
+    "url": "https://arxiv.org/html/2607.10277v1",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2607.10277v1",
+    "bytes": 147751,
+    "file": "business_oracles_v1.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "chattester_v3",
+    "url": "https://arxiv.org/html/2305.04207v3",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2305.04207v3",
+    "bytes": 277268,
+    "file": "chattester_v3.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "chatunitest",
+    "url": "https://arxiv.org/html/2305.04764",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://arxiv.org/html/2305.04764",
+    "bytes": 93340,
+    "file": "chatunitest.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "chaining_ieee",
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11269709",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11269709",
+    "bytes": 8023,
+    "file": "chaining_ieee.html",
+    "content_type": "text/html;charset=UTF-8"
+  },
+  {
+    "key": "repair_ieee",
+    "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11527996",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 202,
+    "final_url": "https://ieeexplore.ieee.org/document/11527996/;jsessionid=DC0A983D2CAA5F9AB801D01ED400B06A",
+    "bytes": 0,
+    "file": "repair_ieee.html",
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "key": "llm_test_publisher",
+    "url": "https://doi.org/10.63090/IJITRS/3139.3209.0022",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://www.eduresearchjournal.com/index.php/ijitrs/article/view/642/616",
+    "bytes": 4471,
+    "file": "llm_test_publisher.html",
+    "content_type": "text/html; charset=utf-8"
+  },
+  {
+    "key": "failmapper_github",
+    "url": "https://api.github.com/repos/nuwaLab/FailMapper/git/trees/main?recursive=1",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://api.github.com/repos/nuwaLab/FailMapper/git/trees/main?recursive=1",
+    "bytes": 85786,
+    "file": "failmapper_github.json",
+    "content_type": "application/json; charset=utf-8",
+    "reported_total": null
+  },
+  {
+    "key": "chaining_fulltext",
+    "url": "https://ieeexplore.ieee.org/ielx8/6287639/10820123/11269709.pdf",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://ieeexplore.ieee.org/ielx8/6287639/10820123/11269709.pdf",
+    "bytes": 1871337,
+    "file": "chaining_fulltext.pdf",
+    "content_type": "application/pdf"
+  },
+  {
+    "key": "llm_test_fulltext",
+    "url": "https://www.eduresearchjournal.com/index.php/ijitrs/article/download/642/616/3468",
+    "date": "2026-10-09",
+    "timezone": "Asia/Saigon",
+    "status": 200,
+    "final_url": "https://www.eduresearchjournal.com/index.php/ijitrs/article/download/642/616/3468",
+    "bytes": 768165,
+    "file": "llm_test_fulltext.pdf",
+    "content_type": "application/pdf"
+  }
+]
